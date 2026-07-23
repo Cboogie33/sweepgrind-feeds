@@ -1,0 +1,2666 @@
+{
+  "timestamp": "2026-08-06T08:25:30.482322-04:00",
+  "sport": "all",
+  "has_live": false,
+  "live_count": 0,
+  "books": {
+    "43": "Bookmaker",
+    "34": "BetOnline",
+    "25": "Pinnacle",
+    "41": "Circa",
+    "28": "Draftkings",
+    "88": "Bovada"
+  },
+  "games": [
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "LAA",
+      "home": "BAL",
+      "away_rot": "959",
+      "home_rot": "960",
+      "away_sp": "Ryan Johnson-R",
+      "home_sp": "Brandon Young-R",
+      "time": "2026-08-06 16:35:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 162,
+        "ml_home": -180,
+        "total": 10.5,
+        "total_ou": "over"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 171,
+          "ml_home": -192,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -117,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -103,
+          "last_change": 1785998486
+        },
+        "Pinnacle": {
+          "ml_away": 171,
+          "ml_home": -187,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -108,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -111,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 101,
+          "last_change": 1786018785
+        },
+        "BetOnline": {
+          "ml_away": 172,
+          "ml_home": -191,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -120,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 100,
+          "last_change": 1786018898
+        },
+        "Bookmaker": {
+          "ml_away": 174,
+          "ml_home": -199,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -111,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -106,
+          "last_change": 1786017889
+        },
+        "DraftKings": {
+          "ml_away": 170,
+          "ml_home": -183,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -114,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -128,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 106,
+          "last_change": 1786013260
+        },
+        "Bovada": {
+          "ml_away": 164,
+          "ml_home": -199,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -115,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -105,
+          "last_change": 1786018808
+        },
+        "Kalshi": {
+          "ml_away": 182,
+          "ml_home": -182
+        },
+        "Polymarket": {
+          "ml_away": 182,
+          "ml_home": -182,
+          "total": 10.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 178,
+          "ml_home": -182
+        },
+        "BetMGM": {
+          "ml_away": 120,
+          "ml_home": -145,
+          "total": 8.0,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -175,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 145
+        },
+        "Caesars": {
+          "ml_away": 120,
+          "ml_home": -130,
+          "total": 8.0,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -170,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 143
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 170,
+        "avg_home_ml": -192,
+        "avg_total": 9.5
+      },
+      "best_line": {
+        "away_ml": 174,
+        "away_book": "Bookmaker",
+        "home_ml": -183,
+        "home_book": "DraftKings"
+      },
+      "movement": {
+        "ml_move": 9,
+        "ml_direction": "home",
+        "total_move": -1.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "OAK",
+      "home": "CIN",
+      "away_rot": "967",
+      "home_rot": "968",
+      "away_sp": "Mason Barnett-R",
+      "home_sp": "Andrew Abbott-L",
+      "time": "2026-08-06 16:40:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 158,
+        "ml_home": -175,
+        "total": 9.0,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 148,
+          "ml_home": -165,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -140,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 120,
+          "last_change": 1786018525
+        },
+        "Pinnacle": {
+          "ml_away": 140,
+          "ml_home": -152,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -114,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -142,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 128,
+          "last_change": 1786018784
+        },
+        "BetOnline": {
+          "ml_away": 145,
+          "ml_home": -160,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -141,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 121,
+          "last_change": 1786018548
+        },
+        "Bookmaker": {
+          "ml_away": 147,
+          "ml_home": -167,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -108,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -135,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 115,
+          "last_change": 1786018078
+        },
+        "DraftKings": {
+          "ml_away": 146,
+          "ml_home": -157,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -144,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 120,
+          "last_change": 1786017970
+        },
+        "Bovada": {
+          "ml_away": 134,
+          "ml_home": -160,
+          "total": 9.5,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -145,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 125,
+          "last_change": 1786018808
+        },
+        "Kalshi": {
+          "ml_away": 153,
+          "ml_home": -153
+        },
+        "Polymarket": {
+          "ml_away": 153,
+          "ml_home": -153,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 150,
+          "ml_home": -153
+        },
+        "BetMGM": {
+          "ml_away": 145,
+          "ml_home": -175,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -145,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 120
+        },
+        "Caesars": {
+          "ml_away": 120,
+          "ml_home": -130,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -165,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 140
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 143,
+        "avg_home_ml": -160,
+        "avg_total": 9.5
+      },
+      "best_line": {
+        "away_ml": 148,
+        "away_book": "Circa",
+        "home_ml": -152,
+        "home_book": "Pinnacle"
+      },
+      "movement": {
+        "ml_move": -10,
+        "ml_direction": "away",
+        "total_move": 0.5
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "NYM",
+      "home": "CLE",
+      "away_rot": "969",
+      "home_rot": "970",
+      "away_sp": "Nolan McLean-R",
+      "home_sp": "Foster Griffin-L",
+      "time": "2026-08-06 17:10:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 104,
+        "ml_home": -115,
+        "total": 7.5,
+        "total_ou": "over"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 102,
+          "ml_home": -114,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -215,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 185,
+          "last_change": 1786018666
+        },
+        "Pinnacle": {
+          "ml_away": 101,
+          "ml_home": -110,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -220,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 195,
+          "last_change": 1786018785
+        },
+        "BetOnline": {
+          "ml_away": 105,
+          "ml_home": -116,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -213,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 182,
+          "last_change": 1786018910
+        },
+        "Bookmaker": {
+          "ml_away": -106,
+          "ml_home": -106,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -117,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 156,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -186,
+          "last_change": 1786018928
+        },
+        "DraftKings": {
+          "ml_away": 105,
+          "ml_home": -112,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -114,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 173,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -212,
+          "last_change": 1786018825
+        },
+        "Bovada": {
+          "ml_away": -104,
+          "ml_home": -116,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -230,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 190,
+          "last_change": 1786012598
+        },
+        "Kalshi": {
+          "ml_away": 106,
+          "ml_home": -106
+        },
+        "Polymarket": {
+          "ml_away": 102,
+          "ml_home": -102,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 104,
+          "ml_home": -106
+        },
+        "BetMGM": {
+          "ml_away": -105,
+          "ml_home": -115,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 155,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -190
+        },
+        "Caesars": {
+          "ml_away": -108,
+          "ml_home": -102,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 143,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -170
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 34,
+        "avg_home_ml": -112,
+        "avg_total": 7.5
+      },
+      "best_line": {
+        "away_ml": 105,
+        "away_book": "BetOnline",
+        "home_ml": -106,
+        "home_book": "Bookmaker"
+      },
+      "movement": {
+        "ml_move": -2,
+        "ml_direction": null,
+        "total_move": 0.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "PIT",
+      "home": "MIL",
+      "away_rot": "951",
+      "home_rot": "952",
+      "away_sp": "Braxton Ashcraft-R",
+      "home_sp": "Dustin May-R",
+      "time": "2026-08-06 18:10:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 122,
+        "ml_home": -135,
+        "total": 7.5,
+        "total_ou": "over"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 120,
+          "ml_home": -134,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -187,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 162,
+          "last_change": 1785995384
+        },
+        "Pinnacle": {
+          "ml_away": 122,
+          "ml_home": -133,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -107,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -181,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 162,
+          "last_change": 1786018784
+        },
+        "BetOnline": {
+          "ml_away": 115,
+          "ml_home": -127,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -187,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 163,
+          "last_change": 1786018936
+        },
+        "Bookmaker": {
+          "ml_away": 115,
+          "ml_home": -130,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -108,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -186,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 156,
+          "last_change": 1786017226
+        },
+        "DraftKings": {
+          "ml_away": 119,
+          "ml_home": -127,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -114,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -193,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 158,
+          "last_change": 1786018251
+        },
+        "Bovada": {
+          "ml_away": 117,
+          "ml_home": -140,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -185,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 160,
+          "last_change": 1786014033
+        },
+        "Kalshi": {
+          "ml_away": 125,
+          "ml_home": -125
+        },
+        "Polymarket": {
+          "ml_away": 125,
+          "ml_home": -125,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 122,
+          "ml_home": -127
+        },
+        "BetMGM": {
+          "ml_away": 110,
+          "ml_home": -135,
+          "total": 7.0,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -200,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 170
+        },
+        "Caesars": {
+          "ml_away": 120,
+          "ml_home": -130,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": 100,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -195,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 162
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 118,
+        "avg_home_ml": -132,
+        "avg_total": 7.5
+      },
+      "best_line": {
+        "away_ml": 122,
+        "away_book": "Pinnacle",
+        "home_ml": -127,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": -2,
+        "ml_direction": null,
+        "total_move": 0.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "TOR",
+      "home": "CHC",
+      "away_rot": "971",
+      "home_rot": "972",
+      "away_sp": "Dylan Cease-R",
+      "home_sp": "David Peterson-L",
+      "time": "2026-08-06 18:20:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 109,
+        "ml_home": -120,
+        "total": 7.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": -116,
+          "ml_home": 104,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 144,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -164,
+          "last_change": 1785995428
+        },
+        "Pinnacle": {
+          "ml_away": 0,
+          "ml_home": 0,
+          "total": 0.0,
+          "total_ou": "under",
+          "total_juice": 0,
+          "rl_away_spread": "0",
+          "rl_away_price": 0,
+          "rl_home_spread": "0",
+          "rl_home_price": 0,
+          "last_change": 1786018793
+        },
+        "BetOnline": {
+          "ml_away": -116,
+          "ml_home": 105,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 143,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -163,
+          "last_change": 1786015533
+        },
+        "Bookmaker": {
+          "ml_away": -115,
+          "ml_home": 102,
+          "total": 0.0,
+          "total_ou": "under",
+          "total_juice": 0,
+          "rl_away_spread": "0",
+          "rl_away_price": 0,
+          "rl_home_spread": "0",
+          "rl_home_price": 0,
+          "last_change": 1786017651
+        },
+        "DraftKings": {
+          "ml_away": -114,
+          "ml_home": 106,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 139,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -168,
+          "last_change": 1786018670
+        },
+        "Bovada": {
+          "ml_away": -118,
+          "ml_home": -102,
+          "total": 7.5,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 150,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -175,
+          "last_change": 1786018808
+        },
+        "Kalshi": {
+          "ml_away": -111,
+          "ml_home": 106
+        },
+        "Polymarket": {
+          "ml_away": -111,
+          "ml_home": 111,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": -111,
+          "ml_home": 108
+        },
+        "BetMGM": {
+          "ml_away": -120,
+          "ml_home": 100,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 140,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -165
+        },
+        "Caesars": {
+          "ml_away": -115,
+          "ml_home": 105,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 140,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -165
+        }
+      },
+      "consensus": {
+        "avg_away_ml": -116,
+        "avg_home_ml": 63,
+        "avg_total": 7.5
+      },
+      "best_line": {
+        "away_ml": -114,
+        "away_book": "DraftKings",
+        "home_ml": 106,
+        "home_book": "DraftKings"
+      },
+      "movement": {
+        "ml_move": -225,
+        "ml_direction": "away",
+        "total_move": 0.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "DET",
+      "home": "SEA",
+      "away_rot": "961",
+      "home_rot": "962",
+      "away_sp": "Framber Valdez-L",
+      "home_sp": "Bryce Miller-R",
+      "time": "2026-08-06 20:10:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": -108,
+        "ml_home": -102,
+        "total": 7.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 112,
+          "ml_home": -125,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -193,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 168,
+          "last_change": 1786018333
+        },
+        "Pinnacle": {
+          "ml_away": 112,
+          "ml_home": -122,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -111,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -192,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 171,
+          "last_change": 1786018783
+        },
+        "BetOnline": {
+          "ml_away": 114,
+          "ml_home": -126,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -194,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 169,
+          "last_change": 1786018559
+        },
+        "Bookmaker": {
+          "ml_away": 113,
+          "ml_home": -127,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -190,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 160,
+          "last_change": 1786002570
+        },
+        "DraftKings": {
+          "ml_away": 116,
+          "ml_home": -124,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -117,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -199,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 163,
+          "last_change": 1786005559
+        },
+        "Bovada": {
+          "ml_away": 107,
+          "ml_home": -128,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -200,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 170,
+          "last_change": 1785998143
+        },
+        "Kalshi": {
+          "ml_away": 115,
+          "ml_home": -117
+        },
+        "Polymarket": {
+          "ml_away": 120,
+          "ml_home": -120,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 117,
+          "ml_home": -120
+        },
+        "BetMGM": {
+          "ml_away": 125,
+          "ml_home": -155,
+          "total": 7.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -160,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 135
+        },
+        "Caesars": {
+          "ml_away": 135,
+          "ml_home": -145,
+          "total": 8.0,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -170,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 143
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 112,
+        "avg_home_ml": -125,
+        "avg_total": 7.5
+      },
+      "best_line": {
+        "away_ml": 116,
+        "away_book": "DraftKings",
+        "home_ml": -122,
+        "home_book": "Pinnacle"
+      },
+      "movement": {
+        "ml_move": 220,
+        "ml_direction": "home",
+        "total_move": 0.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "WSH",
+      "home": "PHI",
+      "away_rot": "953",
+      "home_rot": "954",
+      "away_sp": "Miles Mikolas-R",
+      "home_sp": "Cristopher Sanchez-L",
+      "time": "2026-08-06 22:05:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 248,
+        "ml_home": -280,
+        "total": 8.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 293,
+          "ml_home": -337,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 135,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -155,
+          "last_change": 1786017927
+        },
+        "Pinnacle": {
+          "ml_away": 286,
+          "ml_home": -326,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -114,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 131,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -145,
+          "last_change": 1786018783
+        },
+        "BetOnline": {
+          "ml_away": 286,
+          "ml_home": -325,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 134,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -154,
+          "last_change": 1785983810
+        },
+        "Bookmaker": {
+          "ml_away": 292,
+          "ml_home": -344,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -130,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 130,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -153,
+          "last_change": 1786017208
+        },
+        "DraftKings": {
+          "ml_away": 303,
+          "ml_home": -332,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -117,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 130,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -157,
+          "last_change": 1786016251
+        },
+        "Bovada": {
+          "ml_away": 270,
+          "ml_home": -345,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": 130,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -150,
+          "last_change": 1786011803
+        },
+        "Kalshi": {
+          "ml_away": 308,
+          "ml_home": -308
+        },
+        "Polymarket": {
+          "ml_away": 308,
+          "ml_home": -308,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 300,
+          "ml_home": -308
+        },
+        "BetMGM": {
+          "ml_away": 170,
+          "ml_home": -200,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -125,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 105
+        },
+        "Caesars": {
+          "ml_away": 150,
+          "ml_home": -160,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -140,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 118
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 288,
+        "avg_home_ml": -335,
+        "avg_total": 8.9
+      },
+      "best_line": {
+        "away_ml": 303,
+        "away_book": "DraftKings",
+        "home_ml": -325,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": 45,
+        "ml_direction": "home",
+        "total_move": 0.5
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "CWS",
+      "home": "BOS",
+      "away_rot": "963",
+      "home_rot": "964",
+      "away_sp": "Luis Castillo-R",
+      "home_sp": "Ranger Suarez-L",
+      "time": "2026-08-06 23:10:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 162,
+        "ml_home": -180,
+        "total": 9.0,
+        "total_ou": "over"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 161,
+          "ml_home": -180,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -130,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 110,
+          "last_change": 1785990790
+        },
+        "Pinnacle": {
+          "ml_away": 172,
+          "ml_home": -189,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -116,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -117,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 106,
+          "last_change": 1786018784
+        },
+        "BetOnline": {
+          "ml_away": 169,
+          "ml_home": -188,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -117,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -130,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 110,
+          "last_change": 1786015413
+        },
+        "Bookmaker": {
+          "ml_away": 170,
+          "ml_home": -194,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -135,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 115,
+          "last_change": 1786017651
+        },
+        "DraftKings": {
+          "ml_away": 173,
+          "ml_home": -187,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -131,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 108,
+          "last_change": 1786017151
+        },
+        "Bovada": {
+          "ml_away": 165,
+          "ml_home": -200,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -120,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 100,
+          "last_change": 1786013749
+        },
+        "Kalshi": {
+          "ml_away": 182,
+          "ml_home": -182
+        },
+        "Polymarket": {
+          "ml_away": 182,
+          "ml_home": -182,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 174,
+          "ml_home": -178
+        },
+        "BetMGM": {
+          "ml_away": 125,
+          "ml_home": -155,
+          "total": 8.0,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -165,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 140
+        },
+        "Caesars": {
+          "ml_away": 110,
+          "ml_home": -121,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -105,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -190,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 158
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 168,
+        "avg_home_ml": -190,
+        "avg_total": 9.0
+      },
+      "best_line": {
+        "away_ml": 173,
+        "away_book": "DraftKings",
+        "home_ml": -180,
+        "home_book": "Circa"
+      },
+      "movement": {
+        "ml_move": -1,
+        "ml_direction": null,
+        "total_move": 0.0
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "MIA",
+      "home": "ATL",
+      "away_rot": "955",
+      "home_rot": "956",
+      "away_sp": "Janson Junk-R",
+      "home_sp": "Martin Perez-L",
+      "time": "2026-08-06 23:15:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 154,
+        "ml_home": -170,
+        "total": 8.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 126,
+          "ml_home": -140,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -160,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 140,
+          "last_change": 1786018004
+        },
+        "Pinnacle": {
+          "ml_away": 130,
+          "ml_home": -141,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -156,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 140,
+          "last_change": 1786018784
+        },
+        "BetOnline": {
+          "ml_away": 128,
+          "ml_home": -141,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -162,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 142,
+          "last_change": 1786018090
+        },
+        "Bookmaker": {
+          "ml_away": 130,
+          "ml_home": -147,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -111,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -150,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 127,
+          "last_change": 1786018100
+        },
+        "DraftKings": {
+          "ml_away": 124,
+          "ml_home": -134,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -172,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 142,
+          "last_change": 1786018663
+        },
+        "Bovada": {
+          "ml_away": 124,
+          "ml_home": -148,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -160,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 135,
+          "last_change": 1786018809
+        },
+        "Kalshi": {
+          "ml_away": 135,
+          "ml_home": -135
+        },
+        "Polymarket": {
+          "ml_away": 130,
+          "ml_home": -130,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": 130,
+          "ml_home": -133
+        },
+        "BetMGM": {
+          "ml_away": 110,
+          "ml_home": -135,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": 100,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -190,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 155
+        },
+        "Caesars": {
+          "ml_away": 115,
+          "ml_home": -125,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -190,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 158
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 127,
+        "avg_home_ml": -142,
+        "avg_total": 9.0
+      },
+      "best_line": {
+        "away_ml": 130,
+        "away_book": "Pinnacle",
+        "home_ml": -134,
+        "home_book": "DraftKings"
+      },
+      "movement": {
+        "ml_move": -28,
+        "ml_direction": "away",
+        "total_move": 0.5
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "MIN",
+      "home": "KC",
+      "away_rot": "965",
+      "home_rot": "966",
+      "away_sp": "Bailey Ober-R",
+      "home_sp": "Michael Wacha-R",
+      "time": "2026-08-06 23:40:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 113,
+        "ml_home": -125,
+        "total": 8.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": 104,
+          "ml_home": -116,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -200,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 175,
+          "last_change": 1785981505
+        },
+        "Pinnacle": {
+          "ml_away": 113,
+          "ml_home": -122,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -116,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -188,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 168,
+          "last_change": 1786018783
+        },
+        "BetOnline": {
+          "ml_away": 111,
+          "ml_home": -122,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -125,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -195,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 170,
+          "last_change": 1785988200
+        },
+        "Bookmaker": {
+          "ml_away": 111,
+          "ml_home": -125,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -186,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 156,
+          "last_change": 1786019010
+        },
+        "DraftKings": {
+          "ml_away": 111,
+          "ml_home": -119,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -114,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -198,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 162,
+          "last_change": 1786016420
+        },
+        "Bovada": {
+          "ml_away": 107,
+          "ml_home": -128,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -120,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -195,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 165,
+          "last_change": 1786018809
+        },
+        "Kalshi": {
+          "ml_away": 115,
+          "ml_home": -115
+        },
+        "Polymarket": {
+          "ml_away": 120,
+          "ml_home": -120,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "BetMGM": {
+          "ml_away": 100,
+          "ml_home": -120,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -120,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 165,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -200
+        },
+        "Caesars": {
+          "ml_away": 105,
+          "ml_home": -115,
+          "total": 9.0,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": 1.5,
+          "rl_away_price": -210,
+          "rl_home_spread": -1.5,
+          "rl_home_price": 175
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 110,
+        "avg_home_ml": -122,
+        "avg_total": 8.9
+      },
+      "best_line": {
+        "away_ml": 113,
+        "away_book": "Pinnacle",
+        "home_ml": -116,
+        "home_book": "Circa"
+      },
+      "movement": {
+        "ml_move": -9,
+        "ml_direction": "away",
+        "total_move": 0.5
+      }
+    },
+    {
+      "sport": "mlb",
+      "spread_label": "RL",
+      "away": "SD",
+      "home": "ARI",
+      "away_rot": "957",
+      "home_rot": "958",
+      "away_sp": "Walker Buehler-R",
+      "home_sp": "Kohl Drake-L",
+      "time": "2026-08-07 01:40:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": -120,
+        "ml_home": 109,
+        "total": 8.5,
+        "total_ou": "over"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": -104,
+          "ml_home": -108,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -210,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 180,
+          "last_change": 1786018038
+        },
+        "Pinnacle": {
+          "ml_away": -106,
+          "ml_home": -103,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -112,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 153,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -171,
+          "last_change": 1786018783
+        },
+        "BetOnline": {
+          "ml_away": -105,
+          "ml_home": -105,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -210,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 180,
+          "last_change": 1786005212
+        },
+        "Bookmaker": {
+          "ml_away": -106,
+          "ml_home": -106,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -113,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -213,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 178,
+          "last_change": 1786003304
+        },
+        "DraftKings": {
+          "ml_away": -108,
+          "ml_home": -112,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -114,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 153,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -187,
+          "last_change": 1786004849
+        },
+        "Bovada": {
+          "ml_away": -112,
+          "ml_home": -108,
+          "total": 9.0,
+          "total_ou": "under",
+          "total_juice": -115,
+          "rl_away_spread": "-1.5",
+          "rl_away_price": 150,
+          "rl_home_spread": "1.5",
+          "rl_home_price": -175,
+          "last_change": 1786012598
+        },
+        "Polymarket": {
+          "ml_away": 102,
+          "ml_home": -102,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": -110
+        },
+        "Novig": {
+          "ml_away": -100,
+          "ml_home": -104
+        },
+        "BetMGM": {
+          "ml_away": -140,
+          "ml_home": 115,
+          "total": 8.5,
+          "total_ou": "over",
+          "total_juice": -115,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 120,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -145
+        },
+        "Caesars": {
+          "ml_away": -121,
+          "ml_home": 110,
+          "total": 9.5,
+          "total_ou": "over",
+          "total_juice": 100,
+          "rl_away_spread": -1.5,
+          "rl_away_price": 140,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -165
+        }
+      },
+      "consensus": {
+        "avg_away_ml": -107,
+        "avg_home_ml": -107,
+        "avg_total": 9.0
+      },
+      "best_line": {
+        "away_ml": -104,
+        "away_book": "Circa",
+        "home_ml": -103,
+        "home_book": "Pinnacle"
+      },
+      "movement": {
+        "ml_move": 16,
+        "ml_direction": "home",
+        "total_move": 0.5
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Florida Panthers",
+      "home": "Carolina Hurricanes",
+      "away_rot": "1",
+      "home_rot": "2",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-29 21:07:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 106,
+        "ml_home": -120,
+        "total": -120.0,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": 106,
+          "ml_home": -120,
+          "total": -120.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 1785570069
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 110,
+          "ml_home": -130,
+          "total": -130.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -230,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 190,
+          "last_change": 1784844720
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 108,
+        "avg_home_ml": -125,
+        "avg_total": -125.0
+      },
+      "best_line": {
+        "away_ml": 110,
+        "away_book": "DraftKings",
+        "home_ml": -120,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Montreal Canadiens",
+      "home": "Toronto Maple Leafs",
+      "away_rot": "3",
+      "home_rot": "4",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-29 23:07:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": -104,
+        "ml_home": -110,
+        "total": 6.5,
+        "total_ou": "under"
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": -104,
+          "ml_home": -110,
+          "total": 6.5,
+          "total_ou": "under",
+          "total_juice": -125,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 1785570069
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": -105,
+          "ml_home": -115,
+          "total": 6.5,
+          "total_ou": "under",
+          "total_juice": -125,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -250,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 205,
+          "last_change": 1785260524
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": -104,
+        "avg_home_ml": -112,
+        "avg_total": 6.5
+      },
+      "best_line": {
+        "away_ml": -104,
+        "away_book": "BetOnline",
+        "home_ml": -110,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "New York Rangers",
+      "home": "Boston Bruins",
+      "away_rot": "5",
+      "home_rot": "6",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-30 00:07:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 104,
+        "ml_home": -118,
+        "total": -118.0,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": 104,
+          "ml_home": -118,
+          "total": -118.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 1785570070
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 114,
+          "ml_home": -135,
+          "total": -135.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -218,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 180,
+          "last_change": 1785260583
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 109,
+        "avg_home_ml": -126,
+        "avg_total": -126.5
+      },
+      "best_line": {
+        "away_ml": 114,
+        "away_book": "DraftKings",
+        "home_ml": -118,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Vancouver Canucks",
+      "home": "Edmonton Oilers",
+      "away_rot": "7",
+      "home_rot": "8",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-30 02:07:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 220,
+        "ml_home": -255,
+        "total": -255.0,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": 220,
+          "ml_home": -255,
+          "total": -255.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 1785570070
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 215,
+          "ml_home": -265,
+          "total": -265.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -105,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": -115,
+          "last_change": 1785437366
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 218,
+        "avg_home_ml": -260,
+        "avg_total": -260.0
+      },
+      "best_line": {
+        "away_ml": 220,
+        "away_book": "BetOnline",
+        "home_ml": -255,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Chicago Blackhawks",
+      "home": "Vegas Golden Knights",
+      "away_rot": "9",
+      "home_rot": "10",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-30 02:37:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": 216,
+        "ml_home": -250,
+        "total": -250.0,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": 216,
+          "ml_home": -250,
+          "total": -250.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 1785570070
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 205,
+          "ml_home": -250,
+          "total": -250.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -125,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 105,
+          "last_change": 1784844722
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 210,
+        "avg_home_ml": -250,
+        "avg_total": -250.0
+      },
+      "best_line": {
+        "away_ml": 216,
+        "away_book": "BetOnline",
+        "home_ml": -250,
+        "home_book": "BetOnline"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Pittsburgh Penguins",
+      "home": "Philadelphia Flyers",
+      "away_rot": "11",
+      "home_rot": "12",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-30 23:37:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 114,
+          "ml_home": -135,
+          "total": -135.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -218,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 180,
+          "last_change": 1785260406
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 114,
+        "avg_home_ml": -135,
+        "avg_total": -135.0
+      },
+      "best_line": {
+        "away_ml": 114,
+        "away_book": "DraftKings",
+        "home_ml": -135,
+        "home_book": "DraftKings"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "New York Islanders",
+      "home": "Toronto Maple Leafs",
+      "away_rot": "13",
+      "home_rot": "14",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-09-30 23:37:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": null,
+        "avg_home_ml": null,
+        "avg_total": null
+      },
+      "best_line": {
+        "away_ml": null,
+        "away_book": "Circa",
+        "home_ml": null,
+        "home_book": "Circa"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "nhl",
+      "spread_label": "PL",
+      "away": "Los Angeles Kings",
+      "home": "Colorado Avalanche",
+      "away_rot": "15",
+      "home_rot": "16",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-10-01 02:07:00",
+      "is_started": 0,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null,
+        "total_ou": null
+      },
+      "books": {
+        "Circa": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Pinnacle": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "BetOnline": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "Bookmaker": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        },
+        "DraftKings": {
+          "ml_away": 142,
+          "ml_home": -170,
+          "total": -170.0,
+          "total_ou": null,
+          "total_juice": -110,
+          "rl_away_spread": "1.5",
+          "rl_away_price": -166,
+          "rl_home_spread": "-1.5",
+          "rl_home_price": 140,
+          "last_change": 1785264704
+        },
+        "Bovada": {
+          "ml_away": null,
+          "ml_home": null,
+          "total": null,
+          "total_ou": null,
+          "total_juice": null,
+          "rl_away_spread": "",
+          "rl_away_price": null,
+          "rl_home_spread": "",
+          "rl_home_price": null,
+          "last_change": 0
+        }
+      },
+      "consensus": {
+        "avg_away_ml": 142,
+        "avg_home_ml": -170,
+        "avg_total": -170.0
+      },
+      "best_line": {
+        "away_ml": 142,
+        "away_book": "DraftKings",
+        "home_ml": -170,
+        "home_book": "DraftKings"
+      },
+      "movement": {
+        "ml_move": null,
+        "ml_direction": null,
+        "total_move": null
+      }
+    },
+    {
+      "sport": "wnba",
+      "spread_label": "Spread",
+      "away": "Las Vegas Aces",
+      "home": "Indiana Fever",
+      "away_rot": "",
+      "home_rot": "",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-08-06T23:00Z",
+      "is_started": 0,
+      "live_state": null,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null
+      },
+      "movement": {
+        "ml_direction": null,
+        "ml_move": null,
+        "total_move": null
+      },
+      "best_line": {
+        "away_ml": null,
+        "home_ml": null,
+        "away_book": null,
+        "home_book": null
+      },
+      "consensus": {},
+      "books": {
+        "Circa": {
+          "ml_away": -115,
+          "ml_home": -105,
+          "total": 195.0,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": -1.0,
+          "rl_away_price": -110,
+          "rl_home_spread": 1.0,
+          "rl_home_price": -110
+        },
+        "BetMGM": {
+          "ml_away": -115,
+          "ml_home": -105,
+          "total": 195.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": -1.5,
+          "rl_away_price": -105,
+          "rl_home_spread": 1.5,
+          "rl_home_price": -115
+        },
+        "Caesars": {
+          "ml_away": -115,
+          "ml_home": -105,
+          "total": 195.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": -1.0,
+          "rl_away_price": -110,
+          "rl_home_spread": 1.0,
+          "rl_home_price": -110
+        }
+      }
+    },
+    {
+      "sport": "wnba",
+      "spread_label": "Spread",
+      "away": "Los Angeles Sparks",
+      "home": "Minnesota Lynx",
+      "away_rot": "",
+      "home_rot": "",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-08-07T01:00Z",
+      "is_started": 0,
+      "live_state": null,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null
+      },
+      "movement": {
+        "ml_direction": null,
+        "ml_move": null,
+        "total_move": null
+      },
+      "best_line": {
+        "away_ml": null,
+        "home_ml": null,
+        "away_book": null,
+        "home_book": null
+      },
+      "consensus": {},
+      "books": {
+        "Circa": {
+          "ml_away": 875,
+          "ml_home": -1400,
+          "total": 188.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 15.5,
+          "rl_away_price": -110,
+          "rl_home_spread": -15.5,
+          "rl_home_price": -110
+        },
+        "BetMGM": {
+          "ml_away": 800,
+          "ml_home": -1400,
+          "total": 188.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 15.5,
+          "rl_away_price": -115,
+          "rl_home_spread": -15.5,
+          "rl_home_price": -105
+        },
+        "Caesars": {
+          "ml_away": 800,
+          "ml_home": -1400,
+          "total": 188.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 15.5,
+          "rl_away_price": -110,
+          "rl_home_spread": -15.5,
+          "rl_home_price": -110
+        }
+      }
+    },
+    {
+      "sport": "wnba",
+      "spread_label": "Spread",
+      "away": "Toronto Tempo",
+      "home": "Portland Fire",
+      "away_rot": "",
+      "home_rot": "",
+      "away_sp": "",
+      "home_sp": "",
+      "time": "2026-08-07T02:00Z",
+      "is_started": 0,
+      "live_state": null,
+      "opener": {
+        "ml_away": null,
+        "ml_home": null,
+        "total": null
+      },
+      "movement": {
+        "ml_direction": null,
+        "ml_move": null,
+        "total_move": null
+      },
+      "best_line": {
+        "away_ml": null,
+        "home_ml": null,
+        "away_book": null,
+        "home_book": null
+      },
+      "consensus": {},
+      "books": {
+        "Circa": {
+          "ml_away": 125,
+          "ml_home": -145,
+          "total": 187.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 3.0,
+          "rl_away_price": -110,
+          "rl_home_spread": -3.0,
+          "rl_home_price": -110
+        },
+        "BetMGM": {
+          "ml_away": 120,
+          "ml_home": -145,
+          "total": 187.5,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 2.5,
+          "rl_away_price": -105,
+          "rl_home_spread": -2.5,
+          "rl_home_price": -115
+        },
+        "Caesars": {
+          "ml_away": 122,
+          "ml_home": -145,
+          "total": 187.0,
+          "total_ou": "over",
+          "total_juice": -110,
+          "rl_away_spread": 2.5,
+          "rl_away_price": -110,
+          "rl_home_spread": -2.5,
+          "rl_home_price": -110
+        }
+      }
+    }
+  ],
+  "prediction_markets": {
+    "kalshi": 24,
+    "polymarket": 32
+  }
+}
