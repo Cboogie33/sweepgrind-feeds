@@ -1,190 +1,230 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-08-08T16:45:25.780523+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-08-08T16:28:34+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: WNBPA emphasizes inclusion amidst focus on transgender athletes"
+  },
+  {
+   "ts": "2026-08-08T14:10:26+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Olney on Red Sox: This is the 'craziest team turnaround in the history of baseball'"
+  },
+  {
+   "ts": "2026-08-08T13:54:58+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "MLB: Fantasy baseball: Guerrero sits again, elbow surgery for Greene and more news for Saturday"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
+   "ts": "2026-08-08T13:42:14+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
+   "text": "MLB: MLB betting tips for Saturday: Braves looking to start new win streak"
   },
   {
-   "ts": "2026-08-06T10:50:07+00:00",
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB ATL@NYY: ATL -128 to -146 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB OAK@BOS: OAK +197 to +242 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB LAA@MIA: total 8 to 7.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB CHC@KC: total 9.5 to 9 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB CLE@CWS: CLE -121 to -135 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB CLE@CWS: total 8 to 7.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB COL@STL: total 9 to 8.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB LAD@ARI: LAD -165 to -200 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB TB@SEA: total 7.5 to 7 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "WNBA Las Vegas Aces@Minnesota Lynx: Las Vegas Aces +180 to +150 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "WNBA Las Vegas Aces@Minnesota Lynx: total 183 to 181.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "WNBA Seattle Storm@Portland Fire: Seattle Storm +105 to -105 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "WNBA Seattle Storm@Portland Fire: total 181 to 179 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB OAK@BOS: total 8.5 to 9 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB ATL@NYY: ATL +110 to -143 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB ATL@NYY: total 8 to 7.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "LINE MOVE",
+   "text": "MLB LAD@ARI: LAD -185 to -196 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:45:24",
+   "tag": "TOTAL MOVE",
+   "text": "MLB LAD@ARI: total 9 to 8.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:40:23",
+   "tag": "LINE MOVE",
+   "text": "MLB NYM@PIT: NYM +119 to +109 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:40:23",
+   "tag": "TOTAL MOVE",
+   "text": "MLB NYM@PIT: total 8.5 to 9 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:40:23",
+   "tag": "LINE MOVE",
+   "text": "MLB DET@SF: DET -106 to -120 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:40:23",
+   "tag": "TOTAL MOVE",
+   "text": "MLB DET@SF: total 8.5 to 8 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:35:25",
+   "tag": "LINE MOVE",
+   "text": "MLB TOR@PHI: PHI -152 to -163 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:35:25",
+   "tag": "TOTAL MOVE",
+   "text": "MLB TOR@PHI: total 10 to 9.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-08T12:35:25",
+   "tag": "TOTAL MOVE",
+   "text": "MLB LAA@MIA: total 8.5 to 7.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:35:25",
+   "tag": "LINE MOVE",
+   "text": "MLB BAL@TEX: TEX -135 to -145 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "LINE MOVE",
+   "text": "MLB CIN@WSH: CIN +108 to -140 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "TOTAL MOVE",
+   "text": "MLB CIN@WSH: total 9 to 8.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "LINE MOVE",
+   "text": "MLB TOR@PHI: TOR +187 to +145 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "TOTAL MOVE",
+   "text": "MLB TOR@PHI: total 8 to 9.5 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "TOTAL MOVE",
+   "text": "MLB NYM@PIT: total 8 to 9 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "LINE MOVE",
+   "text": "MLB MIN@MIL: MIN +161 to +125 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "LINE MOVE",
+   "text": "MLB COL@STL: COL +152 to +136 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "LINE MOVE",
+   "text": "MLB DET@SF: DET -147 to -111 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "TOTAL MOVE",
+   "text": "MLB DET@SF: total 8.5 to 8 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:30:31",
+   "tag": "TOTAL MOVE",
+   "text": "MLB HOU@SD: total 8.5 to 8 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:21:12+00:00",
    "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
+   "text": "Michael Soroka: Expected to return Monday (@RotoWireMLB)"
   },
   {
-   "ts": "2026-08-06T10:41:04+00:00",
+   "ts": "2026-08-08T12:20:25",
+   "tag": "LINE MOVE",
+   "text": "WNBA Indiana Fever@Chicago Sky: Indiana Fever -220 to -235 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:20:25",
+   "tag": "TOTAL MOVE",
+   "text": "WNBA Indiana Fever@Chicago Sky: total 191.5 to 191 (Circa)"
+  },
+  {
+   "ts": "2026-08-08T12:16:17+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
+   "text": "Houston\u2018s a team to watch TY in the Big 12. UH returns QB Conner Weigman and will also play 5 star Keisean Henderson at QB. First-team B12 WR Amare... (@paulstonesports)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
+   "ts": "2026-08-08T11:44:14+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
-  },
-  {
-   "ts": "2026-08-06T06:09:48+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
-  },
-  {
-   "ts": "2026-08-06T05:51:02+00:00",
-   "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
-  },
-  {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
-  },
-  {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
-  },
-  {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
-  },
-  {
-   "ts": "2026-08-06T00:24:31-05:00",
-   "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
-  },
-  {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
-  },
-  {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
-  },
-  {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
-  },
-  {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
-  },
-  {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
-  },
-  {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
-  },
-  {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
-  },
-  {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
-  },
-  {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
-  },
-  {
-   "ts": "2026-08-05T18:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "text": "New Max Exit Velos Set Yesterday: J.T. Realmuto: Previous Max: 110.4mph, Yesterday: 111.2mph (@JonPgh)"
   }
  ]
 }
