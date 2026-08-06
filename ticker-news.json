@@ -1,190 +1,247 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-08-22T15:57:23.448308+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-08-22T15:52:47+00:00",
+   "tag": "NEWS",
+   "text": "NFL: NFL reviewing Ravens WR Bateman over family violence arrest",
+   "url": "https://www.espn.com/nfl/story/_/id/49685741/nfl-reviewing-ravens-wr-bateman-family-violence-arrest"
+  },
+  {
+   "ts": "2026-08-22T14:11:26+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Former Browns, Texans RB Nick Chubb announces retirement",
+   "url": "https://www.espn.com/nfl/story/_/id/49686432/running-back-nick-chubb-announces-retirement-nfl"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB TOR@NYY: total 7 to 6.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T14:01:19+00:00",
+   "tag": "NEWS",
+   "text": "Thinking about betting Lamar Jackson for MVP, or the over on his rushing total? @GlennClarkRadio and @1TimMurray discuss how banged up Lamar was last... (@VSiNLive)"
+  },
+  {
+   "ts": "2026-08-22T13:26:49+00:00",
+   "tag": "NEWS",
+   "text": "'Next Man Up' leaves Alabama in good shape despite more than a few injuries #RollTide (@Bama_Hammer)"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB WSH@MIA: total 8 to 7.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T13:15:26+00:00",
+   "tag": "NEWS",
+   "text": "RT @ChalkExchange: \ud83c\udfc8 College Football Returns Next Saturday Plays will be scattered throughout IG, TikTok, and X. Catch all the action in\u2026 (@ParlayScience)"
+  },
+  {
+   "ts": "2026-08-22T13:12:53+00:00",
+   "tag": "NEWS",
+   "text": "RT @AaronWilson_NFL: New @YouTubeCreators video: #Texans sign pair of receivers, what it means for reset depth chart, other trade discussio\u2026 (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "MLB STL@PHI: STL +118 to +134 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T13:02:46+00:00",
+   "tag": "NEWS",
+   "text": "Seahawks News: Injuries set to test Seahawks depth at WR (@FieldGulls)"
+  },
+  {
+   "ts": "2026-08-22T12:52:05+00:00",
+   "tag": "NEWS",
+   "text": "CFB: 2026-27 preseason College Football Playoff, bowl projections",
+   "url": "https://www.espn.com/college-football/story/_/id/49661442/2026-27-preseason-college-football-playoff-cfp-bowl-projections"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB TB@BAL: total 8.5 to 8 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T12:24:16+00:00",
+   "tag": "NEWS",
+   "text": "With No. 2 edge Alex Wright possibly out for much or all of the season with a lower leg injury, the #Browns must regroup at edge rusher: --> (@MaryKayCabot)"
+  },
+  {
+   "ts": "2026-08-22T12:23:11+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "NFL: Broncos' Bo Nix throws for TD in return from ankle injury",
+   "url": "https://www.espn.com/nfl/story/_/id/49687942/broncos-qb-bo-nix-throws-td-preseason-return-ankle-surgery"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
-  },
-  {
-   "ts": "2026-08-06T10:50:07+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
-  },
-  {
-   "ts": "2026-08-06T10:41:04+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
+   "ts": "2026-08-22T11:57:20",
    "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
+   "text": "MLB LAA@TEX: total 8.5 to 8 (BetOnline)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
+   "ts": "2026-08-22T12:09:32+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
+   "text": "MLB: MLB betting tips for Saturday: Good vibes for youngsters Baez, Anderson",
+   "url": "https://www.espn.com/espn/betting/story/_/id/49652105/mlb-betting-tips-odds-lines-2026-saturday-august-22"
   },
   {
-   "ts": "2026-08-06T06:09:48+00:00",
+   "ts": "2026-08-22T11:50:12-04:00",
    "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
+   "text": "NFL: Assault lawsuit against Jerry Jones lingers, and it won't have a new judge",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/assault-lawsuit-against-jerry-jones-lingers-and-it-wont-have-a-new-judge"
   },
   {
-   "ts": "2026-08-06T05:51:02+00:00",
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB SF@BOS: total 8.5 to 8 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T11:45:33+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Mike Clay's Ultimate Draft Board: Perfect picks for every round in a 12-team league",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn"
+  },
+  {
+   "ts": "2026-08-22T11:33:35+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Oklahoma, coach Brent Venables agree to new 6-year contract",
+   "url": "https://www.espn.com/college-football/story/_/id/49672773/sources-oklahoma-brent-venables-agree-new-6-year-contract"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB PIT@LAD: total 8 to 7.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T11:33:15+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Freeman say it's 'too late' for Notre Dame to add players",
+   "url": "https://www.espn.com/college-football/story/_/id/49684579/freeman-say-too-late-notre-dame-add-players"
+  },
+  {
+   "ts": "2026-08-22T11:20:42-04:00",
+   "tag": "NEWS",
+   "text": "NFL: MarShawn Lloyd finds end zone for first time in three years",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marshawn-lloyd-finds-end-zone-for-first-time-in-three-years"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "MLB CIN@ARI: CIN +140 to +155 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T10:47:45+00:00",
+   "tag": "NEWS",
+   "text": "NFL: NFL depth charts for all 32 teams",
+   "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams"
+  },
+  {
+   "ts": "2026-08-22T10:43:14-04:00",
+   "tag": "NEWS",
+   "text": "NFL: NFL is investigating the allegations against Rashod Bateman",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-investigating-the-allegations-against-rashod-bateman"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "MLB MIN@SD: MIN +145 to +122 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T10:13:39-04:00",
+   "tag": "NEWS",
+   "text": "NFL: Jayden Daniels is active for the Commanders on Saturday",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-is-active-for-the-commanders-on-saturday"
+  },
+  {
+   "ts": "2026-08-22T10:08:19-04:00",
+   "tag": "NEWS",
+   "text": "NFL: Deion Sanders has been quietly dealing with a lawsuit over his \"Prime\" logo",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-has-been-quietly-dealing-with-a-lawsuit-over-his-prime-logo"
+  },
+  {
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "MLB MIN@SD: total 7.5 to 8.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-08-22T09:18:15-04:00",
    "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "text": "NFL: Packers second-rounder Brandon Cisse says knee injury is \"nothing serious\"",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-second-rounder-brandon-cisse-says-knee-injury-is-nothing-serious"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
-  },
-  {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
-  },
-  {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
-  },
-  {
-   "ts": "2026-08-06T00:24:31-05:00",
+   "ts": "2026-08-22T08:40:10-05:00",
    "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
+   "text": "Pulsz: Pulsz Weekend Summer Spinner Promotion Reminder \u23f0"
   },
   {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "WNBA Connecticut Sun@Los Angeles Sparks: Connecticut Sun +142 to +160 (DraftKings)"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
+   "ts": "2026-08-22T08:40:07-05:00",
+   "tag": "DROP",
+   "text": "Global Poker: Daily Missions"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
+   "ts": "2026-08-22T08:40:06-05:00",
+   "tag": "DROP",
+   "text": "WOW Vegas: Daily Missions"
   },
   {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "WNBA Atlanta Dream@Phoenix Mercury: Atlanta Dream -205 to -265 (DraftKings)"
   },
   {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
+   "ts": "2026-08-22T08:40:06-05:00",
+   "tag": "DROP",
+   "text": "WOW Vegas: 1 Free SC"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
+   "ts": "2026-08-22T08:40:06-05:00",
+   "tag": "DROP",
+   "text": "A1/Utech: Promo Codes"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
+   "ts": "2026-08-22T11:57:20",
+   "tag": "TOTAL MOVE",
+   "text": "WNBA Atlanta Dream@Phoenix Mercury: total 176.5 to 177.5 (DraftKings)"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
+   "ts": "2026-08-22T08:40:05-05:00",
+   "tag": "DROP",
+   "text": "Coinsback: 1 Free SC"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
+   "ts": "2026-08-22T08:40:05-05:00",
+   "tag": "DROP",
+   "text": "RealPrize: 8 Free Spins"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "NFL Washington Commanders@Detroit Lions: Washington Commanders +105 to -122 (DraftKings)"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
+   "ts": "2026-08-22T08:03:14+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Baltimore Orioles and Tampa Bay Rays meet in game 2 of series",
+   "url": "http://www.espn.com/mlb/preview?gameId=401816627"
   },
   {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
+   "ts": "2026-08-22T08:03:11+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Yankees bring 1-0 series advantage over Blue Jays into game 2",
+   "url": "http://www.espn.com/mlb/preview?gameId=401816628"
   },
   {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
-  },
-  {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
-  },
-  {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
-  },
-  {
-   "ts": "2026-08-05T18:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "ts": "2026-08-22T11:57:20",
+   "tag": "LINE MOVE",
+   "text": "NFL Buffalo Bills@Cleveland Browns: Buffalo Bills +130 to +150 (BetOnline)"
   }
  ]
 }
