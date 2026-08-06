@@ -1,190 +1,240 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-11-07T17:45:40.449852+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
-   "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
-  },
-  {
-   "ts": "2026-08-06T11:14:09+00:00",
+   "ts": "2026-11-07T17:44:00+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
+   "text": "MLB: Mets re-sign pitcher Robert Stock, 36, to one-year contract",
+   "url": "https://www.espn.com/mlb/story/_/id/50403894/new-york-mets-re-sign-pitcher-robert-stock-one-year-deal"
   },
   {
-   "ts": "2026-08-06T10:50:07+00:00",
+   "ts": "2026-11-07T17:41:11+00:00",
    "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
+   "text": "Myles Garrett officially activated (@JamesPalmerTV)"
   },
   {
-   "ts": "2026-08-06T10:41:04+00:00",
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: BYU Cougars 3, Utah Utes 14 (End of 1st)"
+  },
+  {
+   "ts": "2026-11-07T17:33:44+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
+   "text": "CFB: BYU star RB LJ Martin returns, plays vs. No. 3 Utah",
+   "url": "https://www.espn.com/college-football/story/_/id/50407948/sources-byu-rb-lj-martin-return-play-vs-no-3-utah"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
+   "ts": "2026-11-07T17:21:56+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
+   "text": "No Justin Walley (knee) brings the need for another cornerback. And Cam Taylor-Britt is on IR. Starting safety A.J. Haulcy (ankle) is questionable... (@KBowen1070)"
   },
   {
-   "ts": "2026-08-06T06:09:48+00:00",
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Texas Longhorns 7, Missouri Tigers 13 (1:51 - 1st)"
+  },
+  {
+   "ts": "2026-11-07T17:19:04+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
+   "text": "Stadium weather report: if you\u2019re in jeans, you\u2019ll bake in the sun, but if you\u2019re not, you\u2019ll freeze in the shade. #auburn #wareagle #BeatArky (@WarBlogle)"
   },
   {
-   "ts": "2026-08-06T05:51:02+00:00",
-   "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "ts": "2026-11-07T17:06:46+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Sources: Colts among several NFL teams mulling trade offers as deadline looms",
+   "url": "https://www.espn.com/nfl/story/_/id/50403627/trade-talks-pick-nfl-tuesday-deadline-looming"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: UCLA Bruins 10, Minnesota Golden Gophers 0 (4:40 - 1st)"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
+   "ts": "2026-11-07T16:58:00+00:00",
+   "tag": "NEWS",
+   "text": "Released from #Eagles with an injury settlement, veteran free agent running back Dameon Pierce is recovering quickly from a relatively minor... (@AaronWilson_NFL)"
   },
   {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
+   "ts": "2026-11-07T16:57:23+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Arizona grabs onside kick, hits late FG to pull out TCU win",
+   "url": "https://www.espn.com/college-football/story/_/id/50406975/arizona-grabs-onside-kick-hits-late-fg-pull-tcu-win"
   },
   {
-   "ts": "2026-08-06T00:24:31-05:00",
-   "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Iowa State Cyclones 10, Baylor Bears 0 (0:42 - 1st)"
   },
   {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
+   "ts": "2026-11-07T16:56:49+00:00",
+   "tag": "NEWS",
+   "text": "Cam Coleman is out for Texas and Colin Simmons will be available. Both were game-time decisions (@PeteThamel)"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
+   "ts": "2026-11-07T16:50:03+00:00",
+   "tag": "NEWS",
+   "text": "RT @ceasterlingABJ: How #Browns RT Tytus Howard understands Deshaun Watson's road to return (@ByNateUlrich)"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Clemson Tigers 6, Syracuse Orange 3 (14:57 - 2nd)"
   },
   {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
+   "ts": "2026-11-07T16:42:42+00:00",
+   "tag": "NEWS",
+   "text": "RT @SportsTalk790: Texans' Jalen Pitre back from injury, looks to 'turn up' teammates #HTownMade @AaronWilson_NFL (@AaronWilson_NFL)"
   },
   {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
+   "ts": "2026-11-07T16:37:56+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Notre Dame leprechaun drills $500K kick for charity, student hits $1M kick",
+   "url": "https://www.espn.com/video/clip/_/id/50408706/notre-dame-leprechaun-drills-500k-kick-charity-student-hits-1m-kick"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Florida State Seminoles 7, Boston College Eagles 10 (14:06 - 2nd)"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
+   "ts": "2026-11-07T16:35:10+00:00",
+   "tag": "NEWS",
+   "text": "Still think the most epic sign stealing looking game ever was Saban\u2019s LSU against Oklahoma in the dome. No proof. Just watching it looked like it LSU... (@BudElliott3)"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
+   "ts": "2026-11-07T16:34:06+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Illinois coach Bret Bielema takes veiled shot at SEC, CFP",
+   "url": "https://www.espn.com/college-football/story/_/id/50408410/illinois-coach-bret-bielema-takes-veiled-shot-sec-cfp"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: North Carolina Tar Heels 7, UConn Huskies 0 (15:00 - 1st)"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
+   "ts": "2026-11-07T16:17:57+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Freeman on Notre Dame vs. Miami: 'This is a leave no doubt' game",
+   "url": "https://www.espn.com/video/clip/_/id/50408582/leave-no-doubt-game"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
+   "ts": "2026-11-07T16:09:09+00:00",
+   "tag": "NEWS",
+   "text": "You just saw NC State with a good coach and not enough money to keep the stars they signed and developed. How did that go? Do you think @CoachDWD and... (@BudElliott3)"
   },
   {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Tulsa Golden Hurricane 7, Tulane Green Wave 0 (10:51 - 2nd)"
   },
   {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
+   "ts": "2026-11-07T15:53:23+00:00",
+   "tag": "NEWS",
+   "text": "Lamar Jackson hasn't had surgery on his right thumb yet. There are a few variables at play, but a return is still possible this season. As for his... (@JamesPalmerTV)"
   },
   {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
+   "ts": "2026-11-07T15:49:23+00:00",
+   "tag": "NEWS",
+   "text": "ICYMI, Browns Notes: Maliek Collins out for Sunday vs. Saints. Harold Fannin Jr. ready to go despite groin injury; more (@ScottPetrak)"
   },
   {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Maryland Terrapins 0, Purdue Boilermakers 3 (10:37 - 1st)"
   },
   {
-   "ts": "2026-08-05T18:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "ts": "2026-11-07T15:38:18+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Colts in Daniel Jones trade talks as multiple teams call about QB, sources say",
+   "url": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks"
+  },
+  {
+   "ts": "2026-11-07T15:27:04+00:00",
+   "tag": "NEWS",
+   "text": "RT @AaronWilson_NFL: #Texans running back David Montgomery (groin) and safety Reed Blankenship (concussion, hand surgery) will miss another\u2026 (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-11-07T17:45:36.902689+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Duke Blue Devils 7, NC State Wolfpack 0 (14:12 - 1st)"
+  },
+  {
+   "ts": "2026-11-07T15:09:35+00:00",
+   "tag": "NEWS",
+   "text": "Wisconsin trooper released from ICE custody after 'dramatic experience' via @journalsentinel (@jaypo1961)"
+  },
+  {
+   "ts": "2026-11-07T15:04:52+00:00",
+   "tag": "NEWS",
+   "text": "Tailgate weather report: pleasant. #auburn #wareagle #BeatArky (@WarBlogle)"
+  },
+  {
+   "ts": "2026-11-07T12:45:36",
+   "tag": "LINE MOVE",
+   "text": "NBA Denver Nuggets@Indiana Pacers: Denver Nuggets -260 to -295 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-07T14:44:40+00:00",
+   "tag": "NEWS",
+   "text": "The Ravens released Austin Reed, who was their backup QB on Thursday night. This opens up a roster spot for QB Jacoby Brissett, who was acquired from... (@jamisonhensley)"
+  },
+  {
+   "ts": "2026-11-07T14:22:41+00:00",
+   "tag": "NEWS",
+   "text": "They honestly should be sellers. Probably need to go 4-0 in division to make the playoffs and the core of their team is part of the problem. They... (@bsmolka)"
+  },
+  {
+   "ts": "2026-11-07T12:45:36",
+   "tag": "TOTAL MOVE",
+   "text": "NBA Denver Nuggets@Indiana Pacers: total 228 to 229 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-07T14:15:57+00:00",
+   "tag": "NEWS",
+   "text": "RT @MarkMaske: ICYMI: Dianna Russini is set to return to sports media, apparently by hosting a show tied to a sports betting company beginn\u2026 (@LesBowen)"
+  },
+  {
+   "ts": "2026-11-07T14:13:52+00:00",
+   "tag": "NEWS",
+   "text": "RT @Stuckey2: Big 10 QB \ud83c\udfa0 Starter injured: tOSU, ORE, UCLA, IND, NW, MSU, RUT Starter benched: MICH, WIS Starter just back from surgery:\u2026 (@JeffFogle)"
+  },
+  {
+   "ts": "2026-11-07T12:45:36",
+   "tag": "LINE MOVE",
+   "text": "NBA Brooklyn Nets@Atlanta Hawks: Atlanta Hawks -250 to -260 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-07T13:26:08+00:00",
+   "tag": "NEWS",
+   "text": "Notably, the Vikings made an earnest effort to re-sign Daniel Jones in the spring of 2025. He chose Indy over their offer. \ud83d\udc40 (@HolderStephen)"
+  },
+  {
+   "ts": "2026-11-07T13:16:10+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Sources: Ravens not expected to deal RB Derrick Henry before NFL trade deadline",
+   "url": "https://www.espn.com/nfl/story/_/id/50400748/sources-ravens-not-expected-trade-star-rb-derrick-henry"
+  },
+  {
+   "ts": "2026-11-07T12:45:36",
+   "tag": "TOTAL MOVE",
+   "text": "NBA Brooklyn Nets@Atlanta Hawks: total 225.5 to 227 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-07T13:07:56+00:00",
+   "tag": "NEWS",
+   "text": "RT @ChrisYBaldwin: Houston guard Chase McCarty to @PaperCityMag on the progress in his recovery from the left knee injury: \"I haven't been\u2026 (@TBlountNews)"
+  },
+  {
+   "ts": "2026-11-07T11:37:27+00:00",
+   "tag": "NEWS",
+   "text": "NFL: 2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
+   "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard"
+  },
+  {
+   "ts": "2026-11-07T12:45:36",
+   "tag": "TOTAL MOVE",
+   "text": "NBA New York Knicks@Cleveland Cavaliers: total 224.5 to 223 (BetOnline)"
   }
  ]
 }
