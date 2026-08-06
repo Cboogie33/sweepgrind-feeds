@@ -1,190 +1,248 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-11-28T12:10:39.677569+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-11-28T11:00:11+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Five unsung heroes of the Bears' 6-game win streak",
+   "url": "https://www.espn.com/nfl/story/_/id/50616158/bears-win-streak-tj-edwards-dillon-thieneman"
+  },
+  {
+   "ts": "2026-11-28T11:00:01+00:00",
+   "tag": "NEWS",
+   "text": "NFL: 'Give him the ball': Falcons focus on feeding Bijan Robinson",
+   "url": "https://www.espn.com/nfl/story/_/id/50614599/falcons-focus-bijan-robinson"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Central Michigan@Ball State: total 51 to 50.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-28T06:56:47+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot",
+   "url": "https://www.espn.com/college-football/story/_/id/50619461/texas-not-perfect-finds-way-again-win-texas-am"
+  },
+  {
+   "ts": "2026-11-28T06:56:32+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "CFB: Florida QB Aaron Philo injured, exits in third quarter of win over Florida State",
+   "url": "https://www.espn.com/college-football/story/_/id/50616023/injured-florida-quarterback-aaron-philo-exits-3rd-quarter"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
-  },
-  {
-   "ts": "2026-08-06T10:50:07+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
-  },
-  {
-   "ts": "2026-08-06T10:41:04+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
+   "ts": "2026-11-28T07:10:36",
    "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
+   "text": "CFB Notre Dame@Syracuse: Notre Dame -2800 to -2850 (BetOnline)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
+   "ts": "2026-11-28T06:10:54+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
+   "text": "CFB: Greg Byrne shares wise words from Nick Saban, talks staffing process",
+   "url": "https://www.espn.com/video/clip/_/id/50619408/greg-byrne-shares-wise-words-nick-saban-talks-staffing-process"
   },
   {
-   "ts": "2026-08-06T06:09:48+00:00",
+   "ts": "2026-11-28T06:01:03+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
+   "text": "CFB: Devon Dampier shines with 5 TDs as Utah continues its undefeated season",
+   "url": "https://www.espn.com/video/clip/_/id/50619324/devon-dampier-shines-5-tds-utah-continues-undefeated-season"
   },
   {
-   "ts": "2026-08-06T05:51:02+00:00",
-   "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Connecticut@Wyoming: total 45 to 44.5 (BetOnline)"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
-  },
-  {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
-  },
-  {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
-  },
-  {
-   "ts": "2026-08-06T00:24:31-05:00",
+   "ts": "2026-11-28T05:20:03-05:00",
    "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
+   "text": "Coinz.us: Christmas Scratchers"
   },
   {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
+   "ts": "2026-11-28T04:50:42+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Texas' jab at Texas A&M leads college football rivalry week trolls",
+   "url": "https://www.espn.com/college-football/story/_/id/50613517/college-football-rivalry-week-trolls"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Navy@Charlotte: Navy -835 to -800 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
+   "ts": "2026-11-28T04:38:06+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Singled out in NFL officiating video, Bears' Simmons draws false-start ire from Lions",
+   "url": "https://www.espn.com/nfl/story/_/id/50618212/singled-nfl-officiating-video-bears-simmons-draws-false-start-ire-lions"
   },
   {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
+   "ts": "2026-11-28T04:27:42+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Bo Nix, after one of his worst games for Broncos, says 'I let the team down'",
+   "url": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers"
   },
   {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Navy@Charlotte: total 54 to 53 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
+   "ts": "2026-11-28T04:27:38+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Steve Sarkisian praises Texas' resilience, looks to SEC title game",
+   "url": "https://www.espn.com/video/clip/_/id/50618646/steve-sarkisian-praises-texas-resilience-looks-sec-title-game"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
+   "ts": "2026-11-28T04:24:03+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Source: Cubs agree to terms with Japanese pitcher Hiromi Itoh",
+   "url": "https://www.espn.com/mlb/story/_/id/50618251/cubs-agree-terms-japanese-pitcher-hiromi-itoh"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Illinois@Northwestern: Northwestern -170 to -160 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
+   "ts": "2026-11-28T04:19:37+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos",
+   "url": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
+   "ts": "2026-11-28T03:51:36+00:00",
+   "tag": "NEWS",
+   "text": "NFL: NFL Week 12 betting odds: Lines and totals for every game",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Marshall@UL Monroe: Marshall -230 to -240 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
+   "ts": "2026-11-28T03:41:33-05:00",
+   "tag": "INJURY",
+   "text": "NFL: Rams guard Bill Murray out for season after torn Achilles in first career start",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-guard-bill-murray-out-for-season-after-torn-achilles-in-first-career-start"
   },
   {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
+   "ts": "2026-11-28T03:40:03-05:00",
+   "tag": "DROP",
+   "text": "Legendz: Legendz Black Friday Wheel"
   },
   {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Kansas State@Iowa State: Iowa State -185 to -195 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
+   "ts": "2026-11-28T03:20:03-05:00",
+   "tag": "DROP",
+   "text": "Pulsz: Pulsz Black Friday Mega Spinner Promotion Reminder \u23f0"
   },
   {
-   "ts": "2026-08-05T18:10:00+00:00",
+   "ts": "2026-11-28T02:00:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "text": "CFB: Dampier throws for 5 TDs, 393 yards as No. 2 Utah routs West Virginia to reach 12-0"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Liberty@Missouri St: Liberty -1100 to -1000 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-28T01:05:36+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Reports: Diamondbacks, RHP Kona Takahashi reach 1-year, $3 million deal",
+   "url": "https://www.espn.com/mlb/story/_/id/50616551/diamondbacks-kona-takahashi-reach-1-year-deal"
+  },
+  {
+   "ts": "2026-11-28T00:56:59+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Pirates trade C Henry Davis to Diamondbacks, sources say",
+   "url": "https://www.espn.com/mlb/story/_/id/50613350/pirates-trade-c-henry-davis-diamondbacks-sources-say"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB UL Lafayette@Georgia State: total 56 to 55 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-28T00:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Arch Manning and No. 5 Texas grind past Texas A&M 16-6 to secure SEC title game spot"
+  },
+  {
+   "ts": "2026-11-28T00:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Wisconsin trounces Minnesota 28-5 to regain possession of Paul Bunyan's Axe"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB New Mexico State@Middle Tennessee State: New Mexico State +135 to +145 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-27T23:46:15-05:00",
+   "tag": "NEWS",
+   "text": "NFL: Mike McCarthy admits he hasn't spent enough time with the defense",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-admits-he-hasnt-spent-enough-time-with-the-defense"
+  },
+  {
+   "ts": "2026-11-27T21:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Sibley runs for 2 TDs as New Mexico beats Air Force to clinch home field in MWC title game"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Cincinnati@BYU: Cincinnati +586 to +574 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-27T20:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Jadan Baugh helps No. 20 Florida beat Florida State for third straight time, 26-10"
+  },
+  {
+   "ts": "2026-11-27T20:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Temple rallies from 17 down in 4th quarter to stun Memphis 35-31 in regular-season finale"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Cincinnati@BYU: total 56 to 55.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-27T20:30:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: QB Preston Brown makes first start and leads North Dakota State to 10th win in first FBS season"
+  },
+  {
+   "ts": "2026-11-27T20:00:00+00:00",
+   "tag": "FINAL",
+   "text": "NFL: Inspired Steelers move on from Rodgers' exit with cathartic 27-5 win over sloppy Broncos"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB SMU@Stanford: SMU -290 to -300 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-27T20:00:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Phillips's 7-yard rushing TD with 1:46 left helps South Alabama beat App State 20-13"
+  },
+  {
+   "ts": "2026-11-27T19:44:40-05:00",
+   "tag": "NEWS",
+   "text": "NFL: Mike Macdonald on Sam Darnold, when healthy: \"I think he's done a good job\"",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-sam-darnold-when-healthy-i-think-hes-done-a-good-job"
+  },
+  {
+   "ts": "2026-11-28T07:10:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Duke@Wake Forest: Wake Forest -660 to -670 (BetOnline)"
   }
  ]
 }
