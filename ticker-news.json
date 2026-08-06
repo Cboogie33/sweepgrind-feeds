@@ -1,190 +1,240 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-11-14T16:05:41.003692+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-11-14T15:58:45+00:00",
+   "tag": "NEWS",
+   "text": "CFB: The details behind Ole Miss-Oklahoma being moved to Sunday",
+   "url": "https://www.espn.com/video/clip/_/id/50480134/the-details-ole-miss-oklahoma-being-moved-sunday"
+  },
+  {
+   "ts": "2026-11-14T15:58:40+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Sources: Vikings made initial Kirk Cousins trade call to Raiders before MNF",
+   "url": "https://www.espn.com/nfl/story/_/id/50479874/sources-vikings-first-called-kirk-cousins-mnf"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "NHL Seattle Kraken@Carolina Hurricanes: Seattle Kraken +306 to +323 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T15:57:21+00:00",
+   "tag": "NEWS",
+   "text": "RT @OmarKelly: The @DolphinsHMA launches now. Is Kyle McCord the Dolphins\u2019 Savior or Another Stopgap? (@OmarKelly)"
+  },
+  {
+   "ts": "2026-11-14T15:51:31+00:00",
+   "tag": "NEWS",
+   "text": "ICYMI: Will #Browns Deshaun Watson catch a break with #Texans Will Anderson Jr., the #NFL's sack leader, questionable for Sunday's game? Jadeveon... (@MaryKayCabot)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "NHL Edmonton Oilers@Toronto Maple Leafs: total 7 to 6.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T15:41:02+00:00",
+   "tag": "NEWS",
+   "text": "There\u2019s a ton of defensive coordinators who talk tough. Our guy Ernie had to resist the split-second urge to launch this young man into the 12th row (@IraSchoffel)"
+  },
+  {
+   "ts": "2026-11-14T15:34:30+00:00",
+   "tag": "NEWS",
+   "text": "NFL: NFL reassigns backup refs to work games closer to home",
+   "url": "https://www.espn.com/nfl/story/_/id/50479995/nfl-reassigns-backup-refs-work-games-closer-home"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "NHL San Jose Sharks@Utah Mammoth: San Jose Sharks +179 to +166 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T15:26:54+00:00",
+   "tag": "NEWS",
+   "text": "Final #Saints vs. Panthers Injury Report: 4 players ruled out (@SaintsCSC)"
+  },
+  {
+   "ts": "2026-11-14T15:23:54+00:00",
+   "tag": "NEWS",
+   "text": "RT @PeteNakos: Louisville WR LaWayne McCoy will return today after nearly a month, sources tell @On3. Has 25 catches for 513 yards and 4\u2026 (@MarkEnnis)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Northwestern@Ohio State: Ohio State -570 to -585 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T15:16:53+00:00",
+   "tag": "NEWS",
+   "text": "And the Lakers beat the Piston with a healthy Johnson, worthy and scott on the lineup for the world title in 89. Injuries in pro sports are around as... (@CFBMatrix)"
+  },
+  {
+   "ts": "2026-11-14T14:56:33+00:00",
+   "tag": "NEWS",
+   "text": "Source: Maryland QB Malik Washington is dealing with a lower-body injury and will be a game-time decision today against Wisconsin (@PeteThamel)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Northwestern@Ohio State: total 44 to 45.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T14:53:36+00:00",
+   "tag": "NEWS",
+   "text": "RT @PeteThamel: Oklahoma and Ole Miss will play on Sunday. It will be held at 1 EST. Oklahoma AD Roger Denny released a lengthy statement a\u2026 (@jaypo1961)"
+  },
+  {
+   "ts": "2026-11-14T14:51:22+00:00",
+   "tag": "NEWS",
+   "text": "RT @AdamSchefter: As it turns out, Ravens QB Lamar Jackson underwent thumb surgery last week, per sources. If the 6-10 week injury window t\u2026 (@jamisonhensley)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Wake Forest@SMU: Wake Forest -104 to +106 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T14:44:40+00:00",
+   "tag": "NEWS",
+   "text": "Of course, it's the Glenn Thomas Husker play-calling debut. Aurich said Thomas has an elite football mind. Of the O staff: \"They've been grinding... (@Husker247BC)"
+  },
+  {
+   "ts": "2026-11-14T14:41:59+00:00",
+   "tag": "NEWS",
+   "text": "Gameday greetings from Piscataway. It\u2019s chilly. Will feel like it\u2019s in the 30s during the game, but some call that good hittin\u2019 weather (@Husker247BC)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Wisconsin@Maryland: Wisconsin -355 to -320 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T14:31:28+00:00",
+   "tag": "NEWS",
+   "text": "RT @JosephPatrice: \u201cWhen I signed a law that banned any celebration of an \u2018ethnicity\u2019 I didn\u2019t mean white people! Come on, learn your dog w\u2026 (@clarencehilljr)"
+  },
+  {
+   "ts": "2026-11-14T14:26:06+00:00",
+   "tag": "NEWS",
+   "text": "RT @tomhaberstroh: NEW COLUMN @YahooSports: NBA stars missed 10.6 games a season in the '90s. Last season: 27.7. Injuries and DNP-Sched\u2026 (@DanWolken)"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Wisconsin@Maryland: total 42 to 41 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T14:22:10+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Colorado upsets No. 14 Houston for first AP top-15 win since 2007",
+   "url": "https://www.espn.com/college-football/story/_/id/50479172/colorado-upsets-no-14-houston-1st-ap-top-15-win-2007"
+  },
+  {
+   "ts": "2026-11-14T14:05:42+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
+   "url": "https://www.espn.com/college-football/story/_/id/50478281/ole-miss-oklahoma-bumped-sunday-sooners-ad-rips-decision"
+  },
+  {
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB James Madison@Connecticut: total 57.5 to 56.5 (BetOnline)"
+  },
+  {
+   "ts": "2026-11-14T13:16:33+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "CFB: UCLA's Ty Dieffenbach says 1st-half shoulder injury vs. Illinois not serious",
+   "url": "https://www.espn.com/college-football/story/_/id/50477249/ucla-qb-ty-dieffenbach-leaves-game-injury"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
+   "ts": "2026-11-14T12:59:08+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
+   "text": "One of the interesting things about this outright trading with bookmakers lark is that many people mention momentum a lot when discussing teams\u2019... (@moggis200)"
   },
   {
-   "ts": "2026-08-06T10:50:07+00:00",
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Princeton@Yale: Princeton +129 to +146 (DraftKings)"
+  },
+  {
+   "ts": "2026-11-14T12:21:31+00:00",
    "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
+   "text": "Bengals News: Jalen Davis Return (@CincyJungle)"
   },
   {
-   "ts": "2026-08-06T10:41:04+00:00",
+   "ts": "2026-11-14T12:02:31+00:00",
    "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
+   "text": "New York Jets News: Garrett Wilson set to return for Week 10 clash with Buffalo Bills (@GangGreenNation)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
+   "ts": "2026-11-14T11:05:36",
    "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
+   "text": "CFB Duke@Miami Florida: Duke +415 to +446 (BetOnline)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
+   "ts": "2026-11-14T11:13:00+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
+   "text": "Lions face the Patriots with heavy emotions after injury to Jack Campbell via @BostonGlobe (@BenVolin)"
   },
   {
-   "ts": "2026-08-06T06:09:48+00:00",
+   "ts": "2026-11-14T11:00:11+00:00",
    "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
+   "text": "NFL: Untold stories of Detroit Lions WR Amon-Ra St. Brown's German upbringing",
+   "url": "https://www.espn.com/nfl/story/_/id/50475710/nfl-germany-lions-amon-ra-st-brown-munich"
   },
   {
-   "ts": "2026-08-06T05:51:02+00:00",
-   "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Duke@Miami Florida: total 54.5 to 55.5 (BetOnline)"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
+   "ts": "2026-11-14T11:00:03+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Falcons insist winning still the goal despite trading Jessie Bates III",
+   "url": "https://www.espn.com/nfl/story/_/id/50473666/atlanta-falcons-trade-deadline-jessie-bates-morale"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
+   "ts": "2026-11-14T10:34:42-05:00",
+   "tag": "NEWS",
+   "text": "NFL: Ground stop results in side judge Don Willard serving as referee for two games on Sunday",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ground-stop-results-in-side-judge-don-willard-serving-as-referee-for-two-games-on-sunday"
   },
   {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Butler@Marist: Butler -280 to -211 (DraftKings)"
   },
   {
-   "ts": "2026-08-06T00:24:31-05:00",
+   "ts": "2026-11-14T10:00:05-06:00",
    "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
+   "text": "RealPrize: Free Spins"
   },
   {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
+   "ts": "2026-11-14T09:24:41-05:00",
+   "tag": "NEWS",
+   "text": "NFL: Jared Goff takes 1-3 career record vs. Patriots into Germany game",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-takes-1-3-career-record-vs-patriots-into-germany-game"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
+   "ts": "2026-11-14T11:05:36",
+   "tag": "LINE MOVE",
+   "text": "CFB Cincinnati@Iowa State: Cincinnati +127 to +111 (BetOnline)"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
+   "ts": "2026-11-14T09:10:05-06:00",
+   "tag": "DROP",
+   "text": "Legendz: Wheel has reset."
   },
   {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
+   "ts": "2026-11-14T09:10:05-06:00",
+   "tag": "DROP",
+   "text": "Rolla: rolla 2sc post"
   },
   {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
-  },
-  {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
-  },
-  {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
-  },
-  {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
-  },
-  {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
-  },
-  {
-   "ts": "2026-08-05T18:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "ts": "2026-11-14T11:05:36",
+   "tag": "TOTAL MOVE",
+   "text": "CFB Cincinnati@Iowa State: total 57.5 to 58.5 (BetOnline)"
   }
  ]
 }
