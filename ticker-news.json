@@ -1,190 +1,239 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-10-24T19:35:49.463758+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-10-24T19:15:49+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Alabama without Zabien Brown, EJ Crowell, Racin Delgatty vs. Texas A&M",
+   "url": "https://www.espn.com/college-football/story/_/id/50267995/alabama-cb-brown-rb-crowell-c-delgatty-vs-texas-am"
+  },
+  {
+   "ts": "2026-10-24T19:08:28+00:00",
+   "tag": "NEWS",
+   "text": "\ud83c\udfc8\u2614\ufe0f Watching the weather for the UCF game with a few showers around and a bit of a breeze. I don\u2019t feel confident enough in it being a \u201cweather game\u201d... (@KevinRothWx)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Pittsburgh Panthers 16, Miami Hurricanes 52 (2:00 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T19:06:27+00:00",
+   "tag": "NEWS",
+   "text": "Lions plan to activate safety Brian Branch, who returns nearly 11 months from his Achilles tear. He\u2019s set to make his season debut Sunday vs Packers (@JFowlerESPN)"
+  },
+  {
+   "ts": "2026-10-24T19:05:21+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: 2 Chainz, Metro Boomin headline celebrity appearances at WNBA Finals",
+   "url": "https://www.espn.com/wnba/story/_/id/50192576/wnba-finals-celebrity-appearances"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Texas Tech Red Raiders 18, Cincinnati Bearcats 37 (2:22 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T19:00:01+00:00",
+   "tag": "NEWS",
+   "text": "\ud83d\udcb8 NOT ON NOVIG YET? Deposit $10. Get $50 in trade credits. Use code BCPARLAY and get some free dough. SIGN UP \u2b07\ufe0f (@ParlayScience)"
+  },
+  {
+   "ts": "2026-10-24T18:56:17+00:00",
+   "tag": "NEWS",
+   "text": "The CMU touchdown STANDS, and Miami is given an unsportsmanlike conduct penalty on the return. CMU up 17-14 13:24 3Q. Caleb Heavner was injured in... (@bythebelt)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: LSU Tigers 38, Auburn Tigers 10 (1:53 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T18:40:04+00:00",
+   "tag": "NEWS",
+   "text": "#Texans going with two running backs on active roster Sunday vs. #Giants: RB1 Woody Marks and Dare Ogunbowale. Not elevating practice squad running... (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-10-24T18:33:13+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "CFB: Texas RB Hollywood Smothers ruled out vs. Ole Miss",
+   "url": "https://www.espn.com/college-football/story/_/id/50265566/texas-rb-hollywood-smothers-ruled-vs-ole-miss"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Rice Owls 49, Florida Atlantic Owls 51 (0:45 - 4th)"
   },
   {
-   "ts": "2026-08-06T10:50:07+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
-  },
-  {
-   "ts": "2026-08-06T10:41:04+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
-  },
-  {
-   "ts": "2026-08-06T06:09:48+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
-  },
-  {
-   "ts": "2026-08-06T05:51:02+00:00",
+   "ts": "2026-10-24T18:33:00+00:00",
    "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "text": "CFB: Kansas State QB Avery Johnson out vs. Arizona State",
+   "url": "https://www.espn.com/college-football/story/_/id/50266668/sources-kansas-state-qb-avery-johnson-vs-arizona-st"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
+   "ts": "2026-10-24T18:30:55+00:00",
+   "tag": "NEWS",
+   "text": "Watson exceeding expectations, but a return not happening. Time to move on (@TonyGrossi)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Western Michigan Broncos 38, Toledo Rockets 45 (1:23 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T18:30:38+00:00",
+   "tag": "INJURY",
+   "text": "CFB: Rutgers QB Dylan Lonergan exits with apparent head injury",
+   "url": "https://www.espn.com/college-football/story/_/id/50267749/rutgers-qb-dylan-lonergan-exits-apparent-head-injury"
+  },
+  {
+   "ts": "2026-10-24T18:28:24+00:00",
+   "tag": "NEWS",
+   "text": "Alabama suspends defensive back Dre Kirkpatrick Jr. before Texas A&M game (@mikerodak)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Baylor Bears 21, Kansas Jayhawks 16 (13:33 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T18:22:24+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: A'ja Wilson, Breanna Stewart headline youth-infused All-WNBA teams",
+   "url": "https://www.espn.com/wnba/story/_/id/50266916/aja-wilson-breanna-stewart-headline-youth-infused-all-wnba"
+  },
+  {
+   "ts": "2026-10-24T18:17:14+00:00",
+   "tag": "NEWS",
+   "text": "Dallas Goedert expects to play. Jonathan Greenard says he\u2019s a gametime decision. Similar situation to London. We\u2019ll see what Saquon Barkley\u2019s game... (@ZBerm)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Akron Zips 17, Kent State Golden Flashes 21 (13:41 - 4th)"
+  },
+  {
+   "ts": "2026-10-24T18:09:33+00:00",
+   "tag": "NEWS",
+   "text": "#Titans promoted Timmy Horne to to active roster, elevate Kalel Mullings and K.J. Osborn (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-10-24T18:05:58+00:00",
+   "tag": "NEWS",
+   "text": "\ud83d\udca5 KICKOFF RETURN TD TO START THE SECOND HALF \ud83d\udca5 WMU's Josh Franklin finds the seam and breaks free for a 92-yard score to cut the margin to 31-21 in... (@bythebelt)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Miami (OH) RedHawks 21, Central Michigan Chippewas 24 (End of 3rd)"
+  },
+  {
+   "ts": "2026-10-24T18:04:10+00:00",
+   "tag": "NEWS",
+   "text": "Rutgers QB Dylan Lonergan will not return today at Northwestern, per Peacock. Lonergan left the game in the first quarter after a taking a hit to the... (@ESPNRittenberg)"
+  },
+  {
+   "ts": "2026-10-24T18:02:40+00:00",
+   "tag": "NEWS",
+   "text": "RT @MikeACurtis2: The Mavs say Cooper Flagg has a mild left shoulder sprain and he's out for tonight's home opener against the Spurs. Flag\u2026 (@calvinwatkins)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Oregon Ducks 7, Illinois Fighting Illini 0 (1:37 - 1st)"
+  },
+  {
+   "ts": "2026-10-24T18:02:16+00:00",
+   "tag": "NEWS",
+   "text": "5Qs, 5As: Kenneth Walker returns to Lumen primetime Seahawks-Chiefs matchup (@FieldGulls)"
+  },
+  {
+   "ts": "2026-10-24T17:56:06+00:00",
+   "tag": "NEWS",
+   "text": "It's been a brutal game for injuries in Mt. Pleasant. CMU LB Xavier White left the game on Miami's TD drive, while Miami LB Malcolm McCain just got... (@bythebelt)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Tennessee Volunteers 0, South Carolina Gamecocks 0 (15:00 - 1st)"
+  },
+  {
+   "ts": "2026-10-24T17:42:38+00:00",
+   "tag": "NEWS",
+   "text": "#Dolphins activated safety Kyle Louis off injured reserve list, elevated kicker Zane Gonzalez and edge Max Lewellyn (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-10-24T17:41:30+00:00",
+   "tag": "NEWS",
+   "text": "#Chiefs signed Jaydn Ott to 53, activated Cooper McDonald, elevated Justin Watson, Brashard Smith to IR (@AaronWilson_NFL)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Sacramento State Hornets 0, Ball State Cardinals 0 (13:42 - 1st)"
+  },
+  {
+   "ts": "2026-10-24T17:36:37+00:00",
+   "tag": "NEWS",
+   "text": "Alessio Milivojevic officially out for Michigan State, per the availability report (@PeteThamel)"
+  },
+  {
+   "ts": "2026-10-24T17:34:59+00:00",
+   "tag": "NEWS",
+   "text": "Curious to see if the Giants elevate an offensive lineman for this week's game what with Jermaine Eluemunor and Marcus Mbow both listed as... (@Patricia_Traina)"
+  },
+  {
+   "ts": "2026-10-24T19:35:44.316478+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Bowling Green Falcons 0, Buffalo Bulls 0 (13:20 - 1st)"
+  },
+  {
+   "ts": "2026-10-24T17:22:25+00:00",
+   "tag": "NEWS",
+   "text": "Browns roster: Dylan Sampson activated among 3 moves; good sign for injured star defenders (@DawgsByNature)"
+  },
+  {
+   "ts": "2026-10-24T17:20:14+00:00",
+   "tag": "NEWS",
+   "text": "MLB: 2026 World Series odds: Brewers jump to -295 after narrow Game 1 win over Rays",
+   "url": "https://www.espn.com/espn/betting/story/_/id/46793185/espn-mlb-betting-odds-futures-bets-world-series-american-national-league"
+  },
+  {
+   "ts": "2026-10-24T15:35:44",
+   "tag": "LINE MOVE",
+   "text": "NBA Milwaukee Bucks@Philadelphia 76ers: Milwaukee Bucks +520 to +446 (BetOnline)"
+  },
+  {
+   "ts": "2026-10-24T17:16:09+00:00",
+   "tag": "NEWS",
+   "text": "QB Brayden Roggow is the man for Akron under center to start the game. There was some wonder with Cibastian Broughton off the injury report if he... (@bythebelt)"
+  },
+  {
+   "ts": "2026-10-24T17:15:27+00:00",
+   "tag": "NEWS",
+   "text": "CFB: CJ Carr watches brother Tommy's first Michigan start from Big House",
+   "url": "https://www.espn.com/college-football/story/_/id/50266897/cj-carr-tommy-first-start-notre-dame-michigan"
+  },
+  {
+   "ts": "2026-10-24T15:35:44",
+   "tag": "TOTAL MOVE",
+   "text": "NBA Milwaukee Bucks@Philadelphia 76ers: total 232 to 235 (BetOnline)"
+  },
+  {
+   "ts": "2026-10-24T17:00:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
+   "text": "WNBA: Final: Golden State Valkyries 67, Atlanta Dream 62"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
+   "ts": "2026-10-24T16:51:49+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: Kaila Charles tops fashionable arrivals ahead of Game 3 of WNBA Finals",
+   "url": "https://www.espn.com/wnba/story/_/id/50192486/wnba-finals-fashion-atlanta-dream-golden-state-valkyries"
   },
   {
-   "ts": "2026-08-06T01:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
-  },
-  {
-   "ts": "2026-08-06T00:24:31-05:00",
-   "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
-  },
-  {
-   "ts": "2026-08-05T23:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
-  },
-  {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
-  },
-  {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
-  },
-  {
-   "ts": "2026-08-05T23:15:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
-  },
-  {
-   "ts": "2026-08-05T23:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
-  },
-  {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
-  },
-  {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
-  },
-  {
-   "ts": "2026-08-05T22:40:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
-  },
-  {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
-  },
-  {
-   "ts": "2026-08-05T19:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
-  },
-  {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
-  },
-  {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
-  },
-  {
-   "ts": "2026-08-05T18:10:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "ts": "2026-10-24T15:35:44",
+   "tag": "LINE MOVE",
+   "text": "NFL Cincinnati Bengals@Baltimore Ravens: Cincinnati Bengals -115 to -130 (DraftKings)"
   }
  ]
 }
