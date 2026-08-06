@@ -1,190 +1,241 @@
 {
- "generated": "2026-08-06T12:26:01.544879+00:00",
+ "generated": "2026-09-06T00:20:45.381976+00:00",
  "items": [
   {
-   "ts": "2026-08-06T11:15:12+00:00",
+   "ts": "2026-09-06T00:13:57+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Dante Moore throws 3 TDs as Oregon survives Boise State",
+   "url": "https://www.espn.com/college-football/story/_/id/49841664/dante-moore-throws-3-tds-oregon-survives-boise-state"
+  },
+  {
+   "ts": "2026-09-06T00:11:45+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Despite Week 1 win, Ryan Silverfield says Arkansas must clean things up",
+   "url": "https://www.espn.com/video/clip/_/id/49841823/despite-week-1-win-ryan-silverfield-says-arkansas-clean-things-up"
+  },
+  {
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Atlanta Braves 2, Philadelphia Phillies 4 (Bot 8th)"
+  },
+  {
+   "ts": "2026-09-06T00:09:52+00:00",
+   "tag": "NEWS",
+   "text": "NFL: Vikings safety Smith agrees to deal, back for 15th season",
+   "url": "https://www.espn.com/nfl/story/_/id/49841519/vikings-safety-smith-agrees-deal-back-15th-season"
+  },
+  {
+   "ts": "2026-09-05T23:49:35+00:00",
+   "tag": "NEWS",
+   "text": "CFB: Alex Golesh emphasizes Auburn's 'go and finish' mentality",
+   "url": "https://www.espn.com/video/clip/_/id/49841512/alex-golesh-emphasizes-auburn-go-finish-mentality"
+  },
+  {
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Detroit Tigers 6, Cleveland Guardians 0 (Bot 8th)"
+  },
+  {
+   "ts": "2026-09-05T23:26:41+00:00",
+   "tag": "NEWS",
+   "text": "MLB: Los Angeles Dodgers hold Shohei Ohtani out of lineup again",
+   "url": "https://www.espn.com/mlb/story/_/id/49839774/los-angeles-dodgers-hold-shohei-ohtani-lineup-again"
+  },
+  {
+   "ts": "2026-09-05T22:52:39+00:00",
    "tag": "INJURY",
-   "text": "MLB: Fantasy baseball: Injury woes in Ohio and more news for Thursday"
+   "text": "MLB: Taillon goes back on IL as Jays seek second opinion on elbow",
+   "url": "https://www.espn.com/mlb/story/_/id/49840558/taillon-goes-back-il-jays-seek-second-opinion-elbow"
   },
   {
-   "ts": "2026-08-06T11:14:09+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB betting tips for Thursday: Can Abbott and Reds get back in playoff hunt?"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Los Angeles Angels 3, Pittsburgh Pirates 0 (End 6th)"
   },
   {
-   "ts": "2026-08-06T10:50:07+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: 2026 WNBA playoff picture: How six teams can clinch the final berth"
+   "ts": "2026-09-05T21:00:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Final: Alcorn State Braves 3, Southern Miss Golden Eagles 49"
   },
   {
-   "ts": "2026-08-06T10:41:04+00:00",
-   "tag": "NEWS",
-   "text": "MLB: MLB execs on 2026 trade deadline deals: Skubal, Rutschman, more"
+   "ts": "2026-09-05T20:15:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: No. 22 Iowa uses defense, Moulton's running game to beat Northern Illinois 40-0"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB LAA@BAL: LAA +149 to +172 (BetOnline)"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Milwaukee Brewers 2, Cincinnati Reds 1 (Rain Delay, Bottom 4th)"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "LINE MOVE",
-   "text": "MLB NYM@CLE: NYM -110 to +105 (BetOnline)"
+   "ts": "2026-09-05T20:15:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: KJ Jackson's 3 TD passes help Arkansas beat North Alabama 31-14 to end 10-game losing streak"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB TOR@CHC: total 109 to 7.5 (BetOnline)"
+   "ts": "2026-09-05T20:10:00+00:00",
+   "tag": "FINAL",
+   "text": "MLB: Conforto homers, Hoerner has 3 hits to lead the Cubs past the Marlins, 6-5"
   },
   {
-   "ts": "2026-08-06T08:25:55",
-   "tag": "TOTAL MOVE",
-   "text": "MLB WSH@PHI: total 8.5 to 9 (BetOnline)"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Boston Red Sox 0, Baltimore Orioles 0 (Bot 4th)"
   },
   {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "LINE MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: Toronto Tempo +105 to +125 (Circa)"
+   "ts": "2026-09-05T20:10:00+00:00",
+   "tag": "FINAL",
+   "text": "MLB: Rafael Devers and Christian Koss both homer twice as Giants roll to 9-5 win over Mets"
   },
   {
-   "ts": "2026-08-06T08:03:06",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Toronto Tempo@Portland Fire: total 188 to 187.5 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "LINE MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: Los Angeles Sparks +875 to +800 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:56:10",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Los Angeles Sparks@Minnesota Lynx: total 189.5 to 188.5 (BetMGM)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "LINE MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: Las Vegas Aces +100 to -115 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T07:25:50",
-   "tag": "TOTAL MOVE",
-   "text": "WNBA Las Vegas Aces@Indiana Fever: total 196 to 195 (Circa)"
-  },
-  {
-   "ts": "2026-08-06T06:09:52+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: Howard leads Atlanta against Washington after 23-point performance"
-  },
-  {
-   "ts": "2026-08-06T06:09:48+00:00",
-   "tag": "NEWS",
-   "text": "WNBA: Connecticut faces Phoenix, aims to break 5-game slide"
-  },
-  {
-   "ts": "2026-08-06T05:51:02+00:00",
+   "ts": "2026-09-05T19:59:16+00:00",
    "tag": "INJURY",
-   "text": "MLB: Jefry Yan has high-flying celebration after striking out 1st batter"
+   "text": "MLB: Yankees place Trent Grisham on IL with hamstring strain",
+   "url": "https://www.espn.com/mlb/story/_/id/49838761/yankees-place-trent-grisham-il-hamstring-strain"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Tampa Bay Rays 2, Texas Rangers 0 (End 5th)"
+  },
+  {
+   "ts": "2026-09-05T19:45:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Rodr\u00edguez and Emerson hit HRs, Woo pitches 7 scoreless innings as Mariners beat Tigers 4-2"
+   "text": "CFB: Final: Oklahoma State Cowboys 10, Tulsa Golden Hurricane 24"
   },
   {
-   "ts": "2026-08-06T01:40:00+00:00",
+   "ts": "2026-09-05T19:31:55+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: Mali shocks Spain at FIBA Women's Basketball World Cup",
+   "url": "https://www.espn.com/wnba/story/_/id/49834051/mali-shocks-spain-fiba-women-basketball-world-cup"
+  },
+  {
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Minnesota Twins 2, Chicago White Sox 3 (Top 5th)"
+  },
+  {
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Bratt Ks 9 in 7 1-hit innings for 1st win in majors, helping Diamondbacks rout Padres 10-4"
+   "text": "CFB: Tulane-Duke opener delayed 90 minutes by severe weather in North Carolina"
   },
   {
-   "ts": "2026-08-06T01:00:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "WNBA: Final: Los Angeles Sparks 88, Chicago Sky 95"
+   "text": "CFB: Final: Boise State Broncos 27, Oregon Ducks 34"
   },
   {
-   "ts": "2026-08-06T00:24:31-05:00",
-   "tag": "DROP",
-   "text": "Spinpals: 25 free SC"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Toronto Blue Jays 3, Kansas City Royals 3 (Bot 4th)"
   },
   {
-   "ts": "2026-08-05T23:40:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Massey leads off 7th with go-ahead HR, Cameron has 9 Ks as Royals beat Twins 2-1"
+   "text": "CFB: Arch Manning throws four TD passes and No. 5 Texas eases past Texas State in season opener 59-7"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Harrison Ks the final 8 batters he faces, the Brewers beat the Pirates 4-2"
+   "text": "CFB: Rocco Becht shines with 4 TDs as No. 18 Penn State beats Marshall 45-0"
   },
   {
-   "ts": "2026-08-05T23:30:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Dallas Wings 92, Washington Mystics 96"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: Arizona Diamondbacks 0, Houston Astros 2 (Mid 4th)"
   },
   {
-   "ts": "2026-08-05T23:15:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Elder leads the 1st-place Braves to their 7th win in a row, 4-1 over the Marlins"
+   "text": "CFB: Freshman QB Brandon accounts for 5 TDs to lead No. 20 Tennessee over Furman 56-9"
   },
   {
-   "ts": "2026-08-05T23:10:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Abreu homers again, Gray gets 14th victory as Red Sox beat White Sox 4-0 for 7th straight win"
+   "text": "CFB: Eric Winters stops Baylor\u2019s 2-point try as Auburn prevails 17-16"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Wetherholt and Pallante lead Cardinals to 3-1 victory over punchless Yankees"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: New York Yankees 5, San Diego Padres 0 (Mid 3rd)"
   },
   {
-   "ts": "2026-08-05T23:05:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Abrams hits tiebreaking triple in 11th and pitcher Mikolas drives in run as Nats beat Phils 10-4"
+   "text": "CFB: French accounts for 4 TDs as Cincinnati extends home opener streak with 34-15 victory"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "WNBA: Final: Phoenix Mercury 82, Atlanta Dream 96"
+   "text": "CFB: Woodson rushes for 200 yards and 3 scores, Navy racks up 506 rushing yards in 42-15 win over Towson"
   },
   {
-   "ts": "2026-08-05T23:00:00+00:00",
-   "tag": "FINAL",
-   "text": "WNBA: Final: Seattle Storm 86, New York Liberty 92"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "MLB: St. Louis Cardinals 0, Colorado Rockies 0 (Mid 1st)"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Final: Athletics 2, Cincinnati Reds 3"
+   "text": "CFB: Final: UT Rio Grande Valley Vaqueros 16, UTSA Roadrunners 45"
   },
   {
-   "ts": "2026-08-05T22:40:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Bo Bichette drives in run in 10th inning in the Mets' 6-5 win over the Guardians"
+   "text": "CFB: North Dakota State blanks Fordham 38-0, improves to 2-0 in first FBS season"
   },
   {
-   "ts": "2026-08-05T22:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: O'Neill and Mayo hit back-to-back HRs, Taveras also goes deep as Orioles beat Angels 5-2"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "CFB: The Citadel Bulldogs 35, Charlotte 49ers 34 (OT)"
   },
   {
-   "ts": "2026-08-05T19:10:00+00:00",
+   "ts": "2026-09-05T19:30:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Junior Caminero homers and Victor Mesa Jr. triples twice as Rays beat Rockies 4-0 for 3-game sweep"
+   "text": "CFB: Singleton throws for 3 TDs in 1st half as App State opens season by beating FCS-program Maine 55-3"
   },
   {
-   "ts": "2026-08-05T18:35:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Cody Bradford pitches 4 1/3 effective innings in first outing since 2024 as Rangers blank Giants 6-0"
+   "ts": "2026-09-05T19:29:31-04:00",
+   "tag": "NEWS",
+   "text": "NFL: Harrison Smith returning to Vikings on one-year deal",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harrison-smith-returning-to-vikings-on-one-year-deal"
   },
   {
-   "ts": "2026-08-05T18:20:00+00:00",
-   "tag": "FINAL",
-   "text": "MLB: Crow-Armstrong goes deep twice as the Cubs sweep Ohtani and the Dodgers with a wild 7-6 win"
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Wyoming Cowboys 13, Colorado State Rams 14 (6:01 - 3rd)"
   },
   {
-   "ts": "2026-08-05T18:10:00+00:00",
+   "ts": "2026-09-05T19:00:00+00:00",
    "tag": "FINAL",
-   "text": "MLB: Ernie Clement\u2019s 10th-inning, 2-run homer lifts the Blue Jays past the Astros"
+   "text": "CFB: Final: Tennessee State Tigers 3, Georgia Bulldogs 63"
+  },
+  {
+   "ts": "2026-09-05T18:34:21+00:00",
+   "tag": "NEWS",
+   "text": "WNBA: Sky owner calls Kanter Freedom's free speech lawsuit 'meritless'",
+   "url": "https://www.espn.com/wnba/story/_/id/49827748/sky-owner-calls-kanter-freedom-free-speech-lawsuit-meritless"
+  },
+  {
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Norfolk State Spartans 10, Old Dominion Monarchs 30 (0:42 - 3rd)"
+  },
+  {
+   "ts": "2026-09-05T18:10:53-04:00",
+   "tag": "NEWS",
+   "text": "NFL: Arch Manning throws for 305 yards and 4 touchdowns against overmatched Texas State",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-throws-for-305-yards-and-4-touchdowns-against-overmatched-texas-state"
+  },
+  {
+   "ts": "2026-09-05T18:00:00+00:00",
+   "tag": "FINAL",
+   "text": "CFB: Keveun Mason had 158 yards, 2TDs and Temple adds two pick-6 scores in 38-14 win over Rhode Island"
+  },
+  {
+   "ts": "2026-09-06T00:20:41.597727+00:00",
+   "tag": "LIVE",
+   "text": "CFB: Missouri State Bears 0, Texas A&M Aggies 9 (4:44 - 2nd)"
   }
  ]
 }
